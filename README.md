@@ -12,7 +12,7 @@ This repository contains the Jupyter notebooks created for the purpose of Visual
 ## Model: 
 
 The model is based on 4 files, each one coreesponds to a different solution:
-- SIFT\
-- SURF\
-- HOG\
-- CNN\
+- SIFT
+- SURF
+- HOG
+- CNN
