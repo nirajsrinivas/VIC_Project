@@ -19,4 +19,4 @@ The model is based on 4 files, each one coreesponds to a different solution and 
 ![Results for teh different solution](/results.png)
 
 
-**Authors: Fatma Moalla & Mohamed Kerroumi &  Niraj Srinivas & François Le Roux
+** Authors: Fatma Moalla & Mohamed Kerroumi &  Niraj Srinivas & François Le Roux **
