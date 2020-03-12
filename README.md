@@ -14,3 +14,6 @@ The model is based on 4 files, each one coreesponds to a different solution and 
 - SURF: SURF_NN.ipynb
 - HOG : HOG_NN_Train_Test.ipynb
 - CNN : CNN_Visual_Search .ipynb
+
+
+Autors : Fatma Moalla & Mohamed Kerroumi &  Niraj Srinivas & François Le Roux
