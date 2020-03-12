@@ -1,7 +1,6 @@
-# VIC_Project
+# VIC_Project: Where can I find this shirt?
 
-This repository contains the Jupyter notebooks created for the purpose of Visual Computing Course at CentraleSupelec, with the project titled, "Where can I find this shirt?", the project focussed on finding similar images for a given input image. 
-
+This repository contains the Jupyter notebooks created for the purpose of Visual Computing Course at CentraleSupelec, with the project titled, "Where can I find this shirt?", the project focussed on finding similar images for a given input image (Visual Search). 
 
 ## Dataset 
 
@@ -10,7 +9,7 @@ This repository contains the Jupyter notebooks created for the purpose of Visual
 
 ## Model: 
 
-The model is based on 4 files, each one coreesponds to a different solution:
+The model is based on 4 files, each one coreesponds to a different solution and each one is run seperatly:
 - SIFT : SIFT detector_Final.ipynb
 - SURF: SURF_NN.ipynb
 - HOG : HOG_NN_Train_Test.ipynb
